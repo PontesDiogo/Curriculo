@@ -1,0 +1,76 @@
+.resume-container {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f4f4f4;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  }
+  
+  .resume-header {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+  .resume-header h1 {
+    color: #333;
+    font-size: 2.5em;
+  }
+  
+  .resume-header .subtitle {
+    color: #666;
+    font-size: 1.2em;
+    font-weight: normal;
+  }
+  
+  .resume-section {
+    margin-bottom: 20px;
+  }
+  
+  .resume-section h2 {
+    color: #333;
+    font-size: 1.5em;
+    margin-bottom: 10px;
+  }
+  
+  .resume-section ul {
+    padding-left: 20px;
+  }
+  
+  .resume-section li {
+    color: #666;
+    font-size: 1.1em;
+    margin-bottom: 5px;
+  }
+  
+  .experience-item {
+    margin-bottom: 15px;
+  }
+  
+  .experience-item h3 {
+    color: #333;
+    font-size: 1.2em;
+    margin-bottom: 5px;
+  }
+  
+  .experience-item p {
+    color: #666;
+    font-size: 1em;
+    margin-bottom: 5px;
+  }
+  
+  .education-item {
+    margin-bottom: 15px;
+  }
+  
+  .education-item h3 {
+    color: #333;
+    font-size: 1.2em;
+    margin-bottom: 5px;
+  }
+  
+#imgPerfil{
+    width: 29%;
+    border-radius: 50%;
+}
